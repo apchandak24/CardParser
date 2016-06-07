@@ -1,0 +1,2707 @@
+{
+    "canvasInkPaths": [
+        {
+            "isImagePath": false,
+            "isReadOnlyStroke": true,
+            "savedEraserWidth": 18,
+            "strokeId": 1,
+            "savedDither": true,
+            "savedPenWidth": 3,
+            "strokeType": "pen",
+            "path": {
+                "bounds": {
+                    "bottom": 280,
+                    "left": 1043,
+                    "right": 2250,
+                    "top": 100
+                },
+                "drawingComplete": true,
+                "boundsComputed": true,
+                "actions": [
+                    {
+                        "class": "edu.asu.fact.model.ActionMove",
+                        "pixels": {
+                            "y": 100,
+                            "x": 1043
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 100,
+                            "x": 2093
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 47,
+                            "x": 2093
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 189.5,
+                            "x": 2250
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 333,
+                            "x": 2093
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 280,
+                            "x": 2093
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 280,
+                            "x": 1043
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 100,
+                            "x": 1043
+                        }
+                    }
+                ]
+            },
+            "savedStyle": "STROKE",
+            "strokeid": 1030001,
+            "savedCap": "ROUND",
+            "isEraserStroke": false,
+            "isLinkStroke": false,
+            "savedColor": -16777216,
+            "savedJoin": "ROUND",
+            "idAssigned": true
+        },
+        {
+            "isImagePath": false,
+            "isReadOnlyStroke": true,
+            "savedEraserWidth": 18,
+            "strokeId": 2,
+            "savedDither": true,
+            "savedPenWidth": 3,
+            "strokeType": "pen",
+            "path": {
+                "bounds": {
+                    "bottom": 1939,
+                    "left": 1043,
+                    "right": 2250,
+                    "top": 1760
+                },
+                "drawingComplete": true,
+                "boundsComputed": true,
+                "actions": [
+                    {
+                        "class": "edu.asu.fact.model.ActionMove",
+                        "pixels": {
+                            "y": 1760,
+                            "x": 1043
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1760,
+                            "x": 2093
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1707,
+                            "x": 2093
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1849.5,
+                            "x": 2250
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1992,
+                            "x": 2093
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1939,
+                            "x": 2093
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1939,
+                            "x": 1043
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1760,
+                            "x": 1043
+                        }
+                    }
+                ]
+            },
+            "savedStyle": "STROKE",
+            "strokeid": 1030001,
+            "savedCap": "ROUND",
+            "isEraserStroke": false,
+            "isLinkStroke": false,
+            "savedColor": -16777216,
+            "savedJoin": "ROUND",
+            "idAssigned": true
+        },
+        {
+            "isImagePath": false,
+            "isReadOnlyStroke": true,
+            "savedEraserWidth": 18,
+            "strokeId": 3,
+            "savedDither": true,
+            "savedPenWidth": 3,
+            "strokeType": "pen",
+            "path": {
+                "bounds": {
+                    "bottom": 562,
+                    "left": 1043,
+                    "right": 2250,
+                    "top": 383
+                },
+                "drawingComplete": true,
+                "boundsComputed": true,
+                "actions": [
+                    {
+                        "class": "edu.asu.fact.model.ActionMove",
+                        "pixels": {
+                            "y": 383,
+                            "x": 2250
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 383,
+                            "x": 1200
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 330,
+                            "x": 1200
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 472.5,
+                            "x": 1043
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 615,
+                            "x": 1200
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 562.5,
+                            "x": 1200
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 562.5,
+                            "x": 2250
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 383,
+                            "x": 2250
+                        }
+                    }
+                ]
+            },
+            "savedStyle": "STROKE",
+            "strokeid": 1030001,
+            "savedCap": "ROUND",
+            "isEraserStroke": false,
+            "isLinkStroke": false,
+            "savedColor": -16777216,
+            "savedJoin": "ROUND",
+            "idAssigned": true
+        },
+        {
+            "isImagePath": false,
+            "isReadOnlyStroke": true,
+            "savedEraserWidth": 18,
+            "strokeId": 4,
+            "savedDither": true,
+            "savedPenWidth": 3,
+            "strokeType": "pen",
+            "path": {
+                "bounds": {
+                    "bottom": 2221,
+                    "left": 1043,
+                    "right": 2250,
+                    "top": 2042
+                },
+                "drawingComplete": true,
+                "boundsComputed": true,
+                "actions": [
+                    {
+                        "class": "edu.asu.fact.model.ActionMove",
+                        "pixels": {
+                            "y": 2042,
+                            "x": 2250
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 2042,
+                            "x": 1200
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1989,
+                            "x": 1200
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 2131.5,
+                            "x": 1043
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 2274,
+                            "x": 1200
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 2221,
+                            "x": 1200
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 2221,
+                            "x": 2250
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 2042,
+                            "x": 2250
+                        }
+                    }
+                ]
+            },
+            "savedStyle": "STROKE",
+            "strokeid": 1030001,
+            "savedCap": "ROUND",
+            "isEraserStroke": false,
+            "isLinkStroke": false,
+            "savedColor": -16777216,
+            "savedJoin": "ROUND",
+            "idAssigned": true
+        },
+        {
+            "isImagePath": false,
+            "isReadOnlyStroke": true,
+            "savedEraserWidth": 18,
+            "strokeId": 5,
+            "savedDither": true,
+            "savedPenWidth": 3,
+            "strokeType": "pen",
+            "path": {
+                "bounds": {
+                    "bottom": 1782,
+                    "left": 862,
+                    "right": 1041,
+                    "top": 575
+                },
+                "drawingComplete": true,
+                "boundsComputed": true,
+                "actions": [
+                    {
+                        "class": "edu.asu.fact.model.ActionMove",
+                        "pixels": {
+                            "y": 575,
+                            "x": 862
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1625,
+                            "x": 862
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1625,
+                            "x": 809
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1782,
+                            "x": 951.5
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1625,
+                            "x": 1094
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1625,
+                            "x": 1041
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 575,
+                            "x": 1041
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 575,
+                            "x": 862
+                        }
+                    }
+                ]
+            },
+            "savedStyle": "STROKE",
+            "strokeid": 1030001,
+            "savedCap": "ROUND",
+            "isEraserStroke": false,
+            "isLinkStroke": false,
+            "savedColor": -16777216,
+            "savedJoin": "ROUND",
+            "idAssigned": true
+        },
+        {
+            "isImagePath": false,
+            "isReadOnlyStroke": true,
+            "savedEraserWidth": 18,
+            "strokeId": 6,
+            "savedDither": true,
+            "savedPenWidth": 3,
+            "strokeType": "pen",
+            "path": {
+                "bounds": {
+                    "bottom": 1782,
+                    "left": 2522,
+                    "right": 2701,
+                    "top": 575
+                },
+                "drawingComplete": true,
+                "boundsComputed": true,
+                "actions": [
+                    {
+                        "class": "edu.asu.fact.model.ActionMove",
+                        "pixels": {
+                            "y": 575,
+                            "x": 2522
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1625,
+                            "x": 2522
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1625,
+                            "x": 2469
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1782,
+                            "x": 2611.5
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1625,
+                            "x": 2754
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1625,
+                            "x": 2701
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 575,
+                            "x": 2701
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 575,
+                            "x": 2522
+                        }
+                    }
+                ]
+            },
+            "savedStyle": "STROKE",
+            "strokeid": 1030001,
+            "savedCap": "ROUND",
+            "isEraserStroke": false,
+            "isLinkStroke": false,
+            "savedColor": -16777216,
+            "savedJoin": "ROUND",
+            "idAssigned": true
+        },
+        {
+            "isImagePath": false,
+            "isReadOnlyStroke": true,
+            "savedEraserWidth": 18,
+            "strokeId": 7,
+            "savedDither": true,
+            "savedPenWidth": 3,
+            "strokeType": "pen",
+            "path": {
+                "bounds": {
+                    "bottom": 1782,
+                    "left": 580,
+                    "right": 760,
+                    "top": 575
+                },
+                "drawingComplete": true,
+                "boundsComputed": true,
+                "actions": [
+                    {
+                        "class": "edu.asu.fact.model.ActionMove",
+                        "pixels": {
+                            "y": 1782,
+                            "x": 580
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 732,
+                            "x": 580
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 732,
+                            "x": 527
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 575,
+                            "x": 670
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 732,
+                            "x": 812
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 732,
+                            "x": 760
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1782,
+                            "x": 760
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1782,
+                            "x": 580
+                        }
+                    }
+                ]
+            },
+            "savedStyle": "STROKE",
+            "strokeid": 1030001,
+            "savedCap": "ROUND",
+            "isEraserStroke": false,
+            "isLinkStroke": false,
+            "savedColor": -16777216,
+            "savedJoin": "ROUND",
+            "idAssigned": true
+        },
+        {
+            "isImagePath": false,
+            "isReadOnlyStroke": true,
+            "savedEraserWidth": 18,
+            "strokeId": 8,
+            "savedDither": true,
+            "savedPenWidth": 3,
+            "strokeType": "pen",
+            "path": {
+                "bounds": {
+                    "bottom": 1782,
+                    "left": 2240,
+                    "right": 2420,
+                    "top": 575
+                },
+                "drawingComplete": true,
+                "boundsComputed": true,
+                "actions": [
+                    {
+                        "class": "edu.asu.fact.model.ActionMove",
+                        "pixels": {
+                            "y": 1782,
+                            "x": 2240
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 732,
+                            "x": 2240
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 732,
+                            "x": 2187
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 575,
+                            "x": 2330
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 732,
+                            "x": 2472
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 732,
+                            "x": 2420
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1782,
+                            "x": 2420
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1782,
+                            "x": 2240
+                        }
+                    }
+                ]
+            },
+            "savedStyle": "STROKE",
+            "strokeid": 1030001,
+            "savedCap": "ROUND",
+            "isEraserStroke": false,
+            "isLinkStroke": false,
+            "savedColor": -16777216,
+            "savedJoin": "ROUND",
+            "idAssigned": true
+        },
+        {
+            "isImagePath": false,
+            "isReadOnlyStroke": true,
+            "savedEraserWidth": 18,
+            "strokeId": 9,
+            "savedDither": true,
+            "savedPenWidth": 3,
+            "strokeType": "pen",
+            "path": {
+                "bounds": {
+                    "bottom": 1540,
+                    "left": 1216,
+                    "right": 2150,
+                    "top": 603
+                },
+                "drawingComplete": true,
+                "boundsComputed": true,
+                "actions": [
+                    {
+                        "class": "edu.asu.fact.model.ActionMove",
+                        "pixels": {
+                            "y": 730,
+                            "x": 1216
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1472.5,
+                            "x": 1958.5
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1510,
+                            "x": 1921
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1540,
+                            "x": 2150
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1330,
+                            "x": 2150
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1367.5,
+                            "x": 2112.5
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 602.7,
+                            "x": 1343.3
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 730,
+                            "x": 1216
+                        }
+                    }
+                ]
+            },
+            "savedStyle": "STROKE",
+            "strokeid": 1030001,
+            "savedCap": "ROUND",
+            "isEraserStroke": false,
+            "isLinkStroke": false,
+            "savedColor": -16777216,
+            "savedJoin": "ROUND",
+            "idAssigned": true
+        },
+        {
+            "isImagePath": false,
+            "isReadOnlyStroke": true,
+            "savedEraserWidth": 18,
+            "strokeId": 10,
+            "savedDither": true,
+            "strokeType": "pen",
+            "savedPenWidth": 3,
+            "path": {
+                "bounds": {
+                    "bottom": 1703,
+                    "left": 1115,
+                    "right": 1915,
+                    "top": 915
+                },
+                "drawingComplete": true,
+                "boundsComputed": true,
+                "actions": [
+                    {
+                        "class": "edu.asu.fact.model.ActionMove",
+                        "pixels": {
+                            "y": 1703,
+                            "x": 1781
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1098,
+                            "x": 1175
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1135.5,
+                            "x": 1137.5
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 915,
+                            "x": 1115
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 915,
+                            "x": 1333
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 952,
+                            "x": 1295
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1574,
+                            "x": 1915
+                        }
+                    },
+                    {
+                        "class": "edu.asu.fact.model.ActionLine",
+                        "pixels": {
+                            "y": 1703,
+                            "x": 1781
+                        }
+                    }
+                ]
+            },
+            "savedStyle": "STROKE",
+            "strokeid": 1030001,
+            "savedCap": "ROUND",
+            "isEraserStroke": false,
+            "isLinkStroke": false,
+            "savedColor": -16777216,
+            "savedJoin": "ROUND",
+            "idAssigned": true
+        }
+    ],
+    "surfaceCanvasValues": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+    ],
+    "surfacemScaleFactor": 1,
+    "mac": "60:21:C0:4A:23:4B",
+    "surfacemLastTouchY": 593.3648,
+    "surfaceScrollEnabled": false,
+    "surfaceLastCardId": 2,
+    "surfaceCanvasBigText": "No-Text",
+    "SurfaceVisibleCardList": [ 
+        {
+            "cardId": 2,
+            "factCard": {
+                "closeRect": {
+                    "bottom": 20,
+                    "left": 1162,
+                    "right": 986,
+                    "top": 161
+                },
+                "imageBasedDrawingPaths": [],
+                "cardText": 1,
+                "isImageCard": true,
+                "showTextBox": false,
+                "titleHeight": 32,
+                "changeX": 0,
+                "newValue": 0,
+                "drawingPaths": [],
+                "changeY": 0,
+                "dragSelected": true,
+                "picBotY": 384,
+                "textAvail": false,
+                "picBotX": 384,
+                "pathToImg": "Increasing-and-Decreasing-Quantities-by-a-Percent/images/card_a1.png",
+                "picBotYIntial": 384,
+                "cardPicRect": {
+                    "bottom": 538,
+                    "left": 607,
+                    "right": 991,
+                    "top": 154
+                },
+                "sizeControls": {
+                    "endControlActive": false,
+                    "leftControlActive": false,
+                    "topControlActive": false,
+                    "controlLeftY": 309,
+                    "controlLeftX": 570,
+                    "controlRightY": 309,
+                    "controlTopX": 762,
+                    "imageOffset": 37,
+                    "paintActive": false,
+                    "controlRightX": 954,
+                    "controlTopY": 117,
+                    "rightControlActive": false,
+                    "controlPaintX": 678,
+                    "controlEndY": 501,
+                    "controlEndX": 954,
+                    "controlPinY": 154,
+                    "controlPinX": 642,
+                    "controlBotX": 762,
+                    "bottomControlActive": false,
+                    "controlBotY": 501,
+                    "pinActive": true,
+					"isPinDrawn": false,
+                    "controlPaintY": 154
+                },
+                "picTopX": 0,
+                "picTopY": 0,
+                "activeCard": false,
+                "rect": {
+                    "bottom": 538,
+                    "left": 607,
+                    "right": 991,
+                    "top": 154
+                },
+                "cardType": "FactImageCard",
+                "recognitionHeight": 15,
+                "topY": 154,
+                "radius": 10,
+                "cardCenterX": 312,
+                "isSelectedByAnotherUser": false,
+                "cardCenterY": 192,
+                "topX": 607,
+                "borderColor": -7829368,
+                "scaleFactor": 1,
+                "oldValue": 384,
+                "picBotXIntial": 384,
+                "redrawPath": false,
+                "isPropsSet": true,
+                "cardHeight": 384,
+                "cardId": 2,
+                "cardWidth": 384,
+                "tempBotX": 384,
+                "tempBotY": 384,
+                "textRect": {
+                    "bottom": 20,
+                    "left": 612,
+                    "right": 436,
+                    "top": 161
+                },
+                "closeBotX": 5,
+                "closeTopY": 7,
+                "groupId": 0,
+                "closeBotY": 518,
+                "readOnly": true,
+                "closeTopX": 555,
+                "shadeBackColor": "#FFFFE0",
+                "botY": 538,
+                "botX": 991,
+                "touchRect": {
+                    "bottom": 201,
+                    "left": 592,
+                    "right": 1006,
+                    "top": 139
+                },
+                "cardBasedDrawingPaths": []
+            },
+            "class": "edu.asu.fact.model.FactImageCard"
+        },
+        {
+            "cardId": 3,
+            "factCard": {
+                "closeRect": {
+                    "bottom": 23,
+                    "left": 2851,
+                    "right": 2675,
+                    "top": 164
+                },
+                "imageBasedDrawingPaths": [],
+                "cardText": 1,
+                "isImageCard": true,
+                "showTextBox": false,
+                "titleHeight": 32,
+                "changeX": 0,
+                "newValue": 0,
+                "drawingPaths": [],
+                "changeY": 0,
+                "dragSelected": true,
+                "picBotY": 384,
+                "textAvail": false,
+                "picBotX": 384,
+                "pathToImg": "Increasing-and-Decreasing-Quantities-by-a-Percent/images/card_a2.png",
+                "picBotYIntial": 384,
+                "cardPicRect": {
+                    "bottom": 541,
+                    "left": 2296,
+                    "right": 2680,
+                    "top": 157
+                },
+                "sizeControls": {
+                    "endControlActive": false,
+                    "leftControlActive": false,
+                    "topControlActive": false,
+                    "controlLeftY": 312,
+                    "controlLeftX": 2259,
+                    "controlRightY": 312,
+                    "controlTopX": 2451,
+                    "imageOffset": 37,
+                    "paintActive": false,
+                    "controlRightX": 2643,
+                    "controlTopY": 120,
+                    "rightControlActive": false,
+                    "controlPaintX": 2367,
+                    "controlEndY": 504,
+                    "controlEndX": 2643,
+                    "controlPinY": 157,
+                    "controlPinX": 2331,
+                    "controlBotX": 2451,
+                    "bottomControlActive": false,
+                    "controlBotY": 504,
+                    "pinActive": true,
+					"isPinDrawn": false,
+                    "controlPaintY": 157
+                },
+                "picTopX": 0,
+                "picTopY": 0,
+                "activeCard": false,
+                "rect": {
+                    "bottom": 541,
+                    "left": 2296,
+                    "right": 2680,
+                    "top": 157
+                },
+                "cardType": "FactImageCard",
+                "recognitionHeight": 15,
+                "topY": 157,
+                "radius": 10,
+                "cardCenterX": 979,
+                "isSelectedByAnotherUser": false,
+                "cardCenterY": 192,
+                "topX": 2296,
+                "borderColor": -7829368,
+                "scaleFactor": 1,
+                "oldValue": 384,
+                "picBotXIntial": 384,
+                "redrawPath": false,
+                "isPropsSet": true,
+                "cardHeight": 384,
+                "cardId": 3,
+                "cardWidth": 384,
+                "tempBotX": 384,
+                "tempBotY": 384,
+                "textRect": {
+                    "bottom": 23,
+                    "left": 2301,
+                    "right": 2125,
+                    "top": 164
+                },
+                "closeBotX": 5,
+                "closeTopY": 7,
+                "groupId": 0,
+                "closeBotY": 518,
+                "readOnly": true,
+                "closeTopX": 555,
+                "shadeBackColor": "#FFFFE0",
+                "botY": 541,
+                "botX": 2680,
+                "touchRect": {
+                    "bottom": 204,
+                    "left": 2281,
+                    "right": 2695,
+                    "top": 142
+                },
+                "cardBasedDrawingPaths": []
+            },
+            "class": "edu.asu.fact.model.FactImageCard"
+        },
+        {
+            "cardId": 4,
+            "factCard": {
+                "closeRect": {
+                    "bottom": 1691,
+                    "left": 1180,
+                    "right": 1004,
+                    "top": 1832
+                },
+                "imageBasedDrawingPaths": [],
+                "cardText": 1,
+                "isImageCard": true,
+                "showTextBox": false,
+                "titleHeight": 32,
+                "changeX": 0,
+                "newValue": 0,
+                "drawingPaths": [],
+                "changeY": 0,
+                "dragSelected": true,
+                "picBotY": 384,
+                "textAvail": false,
+                "picBotX": 384,
+                "pathToImg": "Increasing-and-Decreasing-Quantities-by-a-Percent/images/card_a3.png",
+                "picBotYIntial": 384,
+                "cardPicRect": {
+                    "bottom": 2209,
+                    "left": 625,
+                    "right": 1009,
+                    "top": 1825
+                },
+                "sizeControls": {
+                    "endControlActive": false,
+                    "leftControlActive": false,
+                    "topControlActive": false,
+                    "controlLeftY": 1980,
+                    "controlLeftX": 588,
+                    "controlRightY": 1980,
+                    "controlTopX": 780,
+                    "imageOffset": 37,
+                    "paintActive": false,
+                    "controlRightX": 972,
+                    "controlTopY": 1788,
+                    "rightControlActive": false,
+                    "controlPaintX": 696,
+                    "controlEndY": 2172,
+                    "controlEndX": 972,
+                    "controlPinY": 1825,
+                    "controlPinX": 660,
+                    "controlBotX": 780,
+                    "bottomControlActive": false,
+                    "controlBotY": 2172,
+                    "pinActive": true,
+					"isPinDrawn": false,
+                    "controlPaintY": 1825
+                },
+                "picTopX": 0,
+                "picTopY": 0,
+                "activeCard": false,
+                "rect": {
+                    "bottom": 2209,
+                    "left": 625,
+                    "right": 1009,
+                    "top": 1825
+                },
+                "cardType": "FactImageCard",
+                "recognitionHeight": 15,
+                "topY": 1825,
+                "radius": 10,
+                "cardCenterX": 312,
+                "isSelectedByAnotherUser": false,
+                "cardCenterY": 192,
+                "topX": 625,
+                "borderColor": -7829368,
+                "scaleFactor": 1,
+                "oldValue": 384,
+                "picBotXIntial": 384,
+                "redrawPath": false,
+                "isPropsSet": true,
+                "cardHeight": 384,
+                "cardId": 4,
+                "cardWidth": 384,
+                "tempBotX": 384,
+                "tempBotY": 384,
+                "textRect": {
+                    "bottom": 1691,
+                    "left": 630,
+                    "right": 454,
+                    "top": 1832
+                },
+                "closeBotX": 5,
+                "closeTopY": 7,
+                "groupId": 0,
+                "closeBotY": 518,
+                "readOnly": true,
+                "closeTopX": 555,
+                "shadeBackColor": "#FFFFE0",
+                "botY": 2209,
+                "botX": 1009,
+                "touchRect": {
+                    "bottom": 1872,
+                    "left": 610,
+                    "right": 1024,
+                    "top": 1810
+                },
+                "cardBasedDrawingPaths": []
+            },
+            "class": "edu.asu.fact.model.FactImageCard"
+        },
+        {
+            "cardId": 5,
+            "factCard": {
+                "closeRect": {
+                    "bottom": 1696,
+                    "left": 2843,
+                    "right": 2667,
+                    "top": 1837
+                },
+                "imageBasedDrawingPaths": [],
+                "cardText": 1,
+                "isImageCard": true,
+                "showTextBox": false,
+                "titleHeight": 32,
+                "changeX": 0,
+                "newValue": 0,
+                "drawingPaths": [],
+                "changeY": 0,
+                "dragSelected": true,
+                "picBotY": 384,
+                "textAvail": false,
+                "picBotX": 384,
+                "pathToImg": "Increasing-and-Decreasing-Quantities-by-a-Percent/images/card_a4.png",
+                "picBotYIntial": 384,
+                "cardPicRect": {
+                    "bottom": 2214,
+                    "left": 2288,
+                    "right": 2672,
+                    "top": 1830
+                },
+                "sizeControls": {
+                    "endControlActive": false,
+                    "leftControlActive": false,
+                    "topControlActive": false,
+                    "controlLeftY": 1985,
+                    "controlLeftX": 2251,
+                    "controlRightY": 1985,
+                    "controlTopX": 2443,
+                    "imageOffset": 37,
+                    "paintActive": false,
+                    "controlRightX": 2635,
+                    "controlTopY": 1793,
+                    "rightControlActive": false,
+                    "controlPaintX": 2359,
+                    "controlEndY": 2177,
+                    "controlEndX": 2635,
+                    "controlPinY": 1830,
+                    "controlPinX": 2323,
+                    "controlBotX": 2443,
+                    "bottomControlActive": false,
+                    "controlBotY": 2177,
+                    "pinActive": true,
+					"isPinDrawn": false,
+                    "controlPaintY": 1830
+                },
+                "picTopX": 0,
+                "picTopY": 0,
+                "activeCard": false,
+                "rect": {
+                    "bottom": 2214,
+                    "left": 2288,
+                    "right": 2672,
+                    "top": 1830
+                },
+                "cardType": "FactImageCard",
+                "recognitionHeight": 15,
+                "topY": 1830,
+                "radius": 10,
+                "cardCenterX": 979,
+                "isSelectedByAnotherUser": false,
+                "cardCenterY": 192,
+                "topX": 2288,
+                "borderColor": -7829368,
+                "scaleFactor": 1,
+                "oldValue": 384,
+                "picBotXIntial": 384,
+                "redrawPath": false,
+                "isPropsSet": true,
+                "cardHeight": 384,
+                "cardId": 5,
+                "cardWidth": 384,
+                "tempBotX": 384,
+                "tempBotY": 384,
+                "textRect": {
+                    "bottom": 1696,
+                    "left": 2293,
+                    "right": 2117,
+                    "top": 1837
+                },
+                "closeBotX": 5,
+                "closeTopY": 7,
+                "groupId": 0,
+                "closeBotY": 518,
+                "readOnly": true,
+                "closeTopX": 555,
+                "shadeBackColor": "#FFFFE0",
+                "botY": 2214,
+                "botX": 2672,
+                "touchRect": {
+                    "bottom": 1877,
+                    "left": 2273,
+                    "right": 2687,
+                    "top": 1815
+                },
+                "cardBasedDrawingPaths": []
+            },
+            "class": "edu.asu.fact.model.FactImageCard"
+        },
+        {
+            "cardId": 1,
+            "factCard": {
+                "closeRect": {
+                    "bottom": -138,
+                    "left": 581,
+                    "right": 580,
+                    "top": 38
+                },
+                "imageBasedDrawingPaths": [],
+                "cardText": 1,
+                "isImageCard": true,
+                "showTextBox": false,
+                "titleHeight": 32,
+                "changeX": 0,
+                "newValue": 0,
+                "drawingPaths": [],
+                "changeY": 0,
+                "dragSelected": true,
+                "picBotY": 492,
+                "textAvail": false,
+                "picBotX": 492,
+                "pathToImg": "Increasing-and-Decreasing-Quantities-by-a-Percent/images/percents_act_2_instructions.png",
+                "picBotYIntial": 492,
+                "cardPicRect": {
+                    "bottom": 537,
+                    "left": 45,
+                    "right": 537,
+                    "top": 45
+                },
+                "sizeControls": {
+                    "endControlActive": false,
+                    "leftControlActive": false,
+                    "topControlActive": false,
+                    "controlLeftY": 254,
+                    "controlLeftX": 8,
+                    "controlRightY": 254,
+                    "controlTopX": 254,
+                    "imageOffset": 37,
+                    "paintActive": false,
+                    "controlRightX": 500,
+                    "controlTopY": 8,
+                    "rightControlActive": false,
+                    "controlPaintX": 0,
+                    "controlEndY": 500,
+                    "controlEndX": 500,
+                    "controlPinY": 47,
+                    "controlPinX": 47,
+                    "controlBotX": 254,
+                    "bottomControlActive": false,
+                    "controlBotY": 500,
+                    "pinActive": true,
+                    "controlPaintY": 0
+                },
+                "picTopX": 0,
+                "picTopY": 0,
+                "activeCard": false,
+                "rect": {
+                    "bottom": 537,
+                    "left": 45,
+                    "right": 537,
+                    "top": 45
+                },
+                "cardType": "FactImageCard",
+                "recognitionHeight": 15,
+                "topY": 45,
+                "radius": 10,
+                "cardCenterX": 23,
+                "isSelectedByAnotherUser": false,
+                "cardCenterY": 246,
+                "topX": 45,
+                "borderColor": -7829368,
+                "scaleFactor": 1,
+                "oldValue": 492,
+                "picBotXIntial": 492,
+                "redrawPath": false,
+                "isPropsSet": true,
+                "cardHeight": 492,
+                "cardId": 1,
+                "cardWidth": 492,
+                "tempBotX": 492,
+                "tempBotY": 492,
+                "textRect": {
+                    "bottom": 537,
+                    "left": 45,
+                    "right": 537,
+                    "top": 45
+                },
+                "closeBotX": 5,
+                "closeTopY": 7,
+                "groupId": 0,
+                "closeBotY": 518,
+                "readOnly": true,
+                "closeTopX": 555,
+                "shadeBackColor": "#FFFFE0",
+                "botY": 537,
+                "botX": 537,
+                "touchRect": {
+                    "bottom": 537,
+                    "left": 45,
+                    "right": 537,
+                    "top": 45
+                },
+                "cardBasedDrawingPaths": []
+            },
+            "class": "edu.asu.fact.model.FactImageCard"
+        },
+        {
+            "cardId": 7,
+            "factCard": {
+                "closeRect": {
+                    "bottom": -138,
+                    "left": 581,
+                    "right": 580,
+                    "top": 38
+                },
+                "imageBasedDrawingPaths": [],
+                "cardText": "No-Text",
+                "isImageCard": true,
+                "showTextBox": false,
+                "titleHeight": 32,
+                "changeX": 0,
+                "newValue": 0,
+                "drawingPaths": [],
+                "changeY": 0,
+                "dragSelected": true,
+                "picBotY": 145,
+                "textAvail": false,
+                "picBotX": 181,
+                "pathToImg": "Increasing-and-Decreasing-Quantities-by-a-Percent/images/card_b2.png",
+                "picBotYIntial": 145,
+                "cardPicRect": {
+                    "bottom": 723,
+                    "left": 255,
+                    "right": 436,
+                    "top": 578
+                },
+                "sizeControls": {
+                    "endControlActive": false,
+                    "leftControlActive": false,
+                    "topControlActive": false,
+                    "controlLeftY": 613,
+                    "controlLeftX": 218,
+                    "controlRightY": 613,
+                    "controlTopX": 308,
+                    "imageOffset": 37,
+                    "paintActive": false,
+                    "controlRightX": 398,
+                    "controlTopY": 541,
+                    "rightControlActive": false,
+                    "controlPaintX": 0,
+                    "controlEndY": 685,
+                    "controlEndX": 398,
+                    "controlPinY": 580,
+                    "controlPinX": 257,
+                    "controlBotX": 308,
+                    "bottomControlActive": false,
+                    "controlBotY": 685,
+                    "pinActive": false,
+                    "controlPaintY": 0
+                },
+                "picTopX": 0,
+                "picTopY": 0,
+                "activeCard": false,
+                "rect": {
+                    "bottom": 722,
+                    "left": 255,
+                    "right": 435,
+                    "top": 578
+                },
+                "cardType": "FactImageCard",
+                "recognitionHeight": 15,
+                "topY": 578,
+                "radius": 10,
+                "cardCenterX": 128,
+                "isSelectedByAnotherUser": false,
+                "cardCenterY": 72,
+                "topX": 255,
+                "borderColor": -7829368,
+                "scaleFactor": 1,
+                "oldValue": 181,
+                "picBotXIntial": 181,
+                "redrawPath": false,
+                "isPropsSet": true,
+                "cardHeight": 144,
+                "cardId": 7,
+                "cardWidth": 180,
+                "tempBotX": 181,
+                "tempBotY": 145,
+                "textRect": {
+                    "bottom": 722,
+                    "left": 255,
+                    "right": 435,
+                    "top": 578
+                },
+                "closeBotX": 5,
+                "closeTopY": 7,
+                "groupId": 0,
+                "closeBotY": 518,
+                "readOnly": true,
+                "closeTopX": 555,
+                "shadeBackColor": "#FFFFE0",
+                "botY": 723,
+                "botX": 436,
+                "touchRect": {
+                    "bottom": 722,
+                    "left": 255,
+                    "right": 435,
+                    "top": 578
+                },
+                "cardBasedDrawingPaths": []
+            },
+            "class": "edu.asu.fact.model.FactImageCard"
+        },
+        {
+            "cardId": 6,
+            "factCard": {
+                "closeRect": {
+                    "bottom": -138,
+                    "left": 581,
+                    "right": 580,
+                    "top": 38
+                },
+                "imageBasedDrawingPaths": [],
+                "cardText": "No-Text",
+                "isImageCard": true,
+                "showTextBox": false,
+                "titleHeight": 32,
+                "changeX": 0,
+                "newValue": 0,
+                "drawingPaths": [],
+                "changeY": 0,
+                "dragSelected": true,
+                "picBotY": 145,
+                "textAvail": false,
+                "picBotX": 181,
+                "pathToImg": "Increasing-and-Decreasing-Quantities-by-a-Percent/images/card_b1.png",
+                "picBotYIntial": 145,
+                "cardPicRect": {
+                    "bottom": 723,
+                    "left": 45,
+                    "right": 226,
+                    "top": 578
+                },
+                "sizeControls": {
+                    "endControlActive": false,
+                    "leftControlActive": false,
+                    "topControlActive": false,
+                    "controlLeftY": 613,
+                    "controlLeftX": 8,
+                    "controlRightY": 613,
+                    "controlTopX": 98,
+                    "imageOffset": 37,
+                    "paintActive": false,
+                    "controlRightX": 188,
+                    "controlTopY": 541,
+                    "rightControlActive": false,
+                    "controlPaintX": 0,
+                    "controlEndY": 685,
+                    "controlEndX": 188,
+                    "controlPinY": 580,
+                    "controlPinX": 47,
+                    "controlBotX": 98,
+                    "bottomControlActive": false,
+                    "controlBotY": 685,
+                    "pinActive": false,
+                    "controlPaintY": 0
+                },
+                "picTopX": 0,
+                "picTopY": 0,
+                "activeCard": false,
+                "rect": {
+                    "bottom": 722,
+                    "left": 45,
+                    "right": 225,
+                    "top": 578
+                },
+                "cardType": "FactImageCard",
+                "recognitionHeight": 15,
+                "topY": 578,
+                "radius": 10,
+                "cardCenterX": 23,
+                "isSelectedByAnotherUser": false,
+                "cardCenterY": 72,
+                "topX": 45,
+                "borderColor": -7829368,
+                "scaleFactor": 1,
+                "oldValue": 181,
+                "picBotXIntial": 181,
+                "redrawPath": false,
+                "isPropsSet": true,
+                "cardHeight": 144,
+                "cardId": 6,
+                "cardWidth": 180,
+                "tempBotX": 181,
+                "tempBotY": 145,
+                "textRect": {
+                    "bottom": 722,
+                    "left": 45,
+                    "right": 225,
+                    "top": 578
+                },
+                "closeBotX": 5,
+                "closeTopY": 7,
+                "groupId": 0,
+                "closeBotY": 518,
+                "readOnly": true,
+                "closeTopX": 555,
+                "shadeBackColor": "#FFFFE0",
+                "botY": 723,
+                "botX": 226,
+                "touchRect": {
+                    "bottom": 722,
+                    "left": 45,
+                    "right": 225,
+                    "top": 578
+                },
+                "cardBasedDrawingPaths": []
+            },
+            "class": "edu.asu.fact.model.FactImageCard"
+        },
+        {
+            "cardId": 8,
+            "factCard": {
+                "closeRect": {
+                    "bottom": -138,
+                    "left": 581,
+                    "right": 580,
+                    "top": 38
+                },
+                "imageBasedDrawingPaths": [],
+                "cardText": "No-Text",
+                "isImageCard": true,
+                "showTextBox": false,
+                "titleHeight": 32,
+                "changeX": 0,
+                "newValue": 0,
+                "drawingPaths": [],
+                "changeY": 0,
+                "dragSelected": true,
+                "picBotY": 145,
+                "textAvail": false,
+                "picBotX": 181,
+                "pathToImg": "Increasing-and-Decreasing-Quantities-by-a-Percent/images/card_b3.png",
+                "picBotYIntial": 145,
+                "cardPicRect": {
+                    "bottom": 897,
+                    "left": 45,
+                    "right": 226,
+                    "top": 752
+                },
+                "sizeControls": {
+                    "endControlActive": false,
+                    "leftControlActive": false,
+                    "topControlActive": false,
+                    "controlLeftY": 787,
+                    "controlLeftX": 8,
+                    "controlRightY": 787,
+                    "controlTopX": 98,
+                    "imageOffset": 37,
+                    "paintActive": false,
+                    "controlRightX": 188,
+                    "controlTopY": 715,
+                    "rightControlActive": false,
+                    "controlPaintX": 0,
+                    "controlEndY": 859,
+                    "controlEndX": 188,
+                    "controlPinY": 754,
+                    "controlPinX": 47,
+                    "controlBotX": 98,
+                    "bottomControlActive": false,
+                    "controlBotY": 859,
+                    "pinActive": false,
+                    "controlPaintY": 0
+                },
+                "picTopX": 0,
+                "picTopY": 0,
+                "activeCard": false,
+                "rect": {
+                    "bottom": 896,
+                    "left": 45,
+                    "right": 225,
+                    "top": 752
+                },
+                "cardType": "FactImageCard",
+                "recognitionHeight": 15,
+                "topY": 752,
+                "radius": 10,
+                "cardCenterX": 23,
+                "isSelectedByAnotherUser": false,
+                "cardCenterY": 72,
+                "topX": 45,
+                "borderColor": -7829368,
+                "scaleFactor": 1,
+                "oldValue": 181,
+                "picBotXIntial": 181,
+                "redrawPath": false,
+                "isPropsSet": true,
+                "cardHeight": 144,
+                "cardId": 8,
+                "cardWidth": 180,
+                "tempBotX": 181,
+                "tempBotY": 145,
+                "textRect": {
+                    "bottom": 896,
+                    "left": 45,
+                    "right": 225,
+                    "top": 752
+                },
+                "closeBotX": 5,
+                "closeTopY": 7,
+                "groupId": 0,
+                "closeBotY": 518,
+                "readOnly": true,
+                "closeTopX": 555,
+                "shadeBackColor": "#FFFFE0",
+                "botY": 897,
+                "botX": 226,
+                "touchRect": {
+                    "bottom": 896,
+                    "left": 45,
+                    "right": 225,
+                    "top": 752
+                },
+                "cardBasedDrawingPaths": []
+            },
+            "class": "edu.asu.fact.model.FactImageCard"
+        },
+        {
+            "cardId": 9,
+            "factCard": {
+                "closeRect": {
+                    "bottom": -138,
+                    "left": 581,
+                    "right": 580,
+                    "top": 38
+                },
+                "imageBasedDrawingPaths": [],
+                "cardText": "No-Text",
+                "isImageCard": true,
+                "showTextBox": false,
+                "titleHeight": 32,
+                "changeX": 0,
+                "newValue": 0,
+                "drawingPaths": [],
+                "changeY": 0,
+                "dragSelected": true,
+                "picBotY": 145,
+                "textAvail": false,
+                "picBotX": 181,
+                "pathToImg": "Increasing-and-Decreasing-Quantities-by-a-Percent/images/card_b4.png",
+                "picBotYIntial": 145,
+                "cardPicRect": {
+                    "bottom": 897,
+                    "left": 255,
+                    "right": 436,
+                    "top": 752
+                },
+                "sizeControls": {
+                    "endControlActive": false,
+                    "leftControlActive": false,
+                    "topControlActive": false,
+                    "controlLeftY": 787,
+                    "controlLeftX": 218,
+                    "controlRightY": 787,
+                    "controlTopX": 308,
+                    "imageOffset": 37,
+                    "paintActive": false,
+                    "controlRightX": 398,
+                    "controlTopY": 715,
+                    "rightControlActive": false,
+                    "controlPaintX": 0,
+                    "controlEndY": 859,
+                    "controlEndX": 398,
+                    "controlPinY": 754,
+                    "controlPinX": 257,
+                    "controlBotX": 308,
+                    "bottomControlActive": false,
+                    "controlBotY": 859,
+                    "pinActive": false,
+                    "controlPaintY": 0
+                },
+                "picTopX": 0,
+                "picTopY": 0,
+                "activeCard": false,
+                "rect": {
+                    "bottom": 896,
+                    "left": 255,
+                    "right": 435,
+                    "top": 752
+                },
+                "cardType": "FactImageCard",
+                "recognitionHeight": 15,
+                "topY": 752,
+                "radius": 10,
+                "cardCenterX": 128,
+                "isSelectedByAnotherUser": false,
+                "cardCenterY": 72,
+                "topX": 255,
+                "borderColor": -7829368,
+                "scaleFactor": 1,
+                "oldValue": 181,
+                "picBotXIntial": 181,
+                "redrawPath": false,
+                "isPropsSet": true,
+                "cardHeight": 144,
+                "cardId": 9,
+                "cardWidth": 180,
+                "tempBotX": 181,
+                "tempBotY": 145,
+                "textRect": {
+                    "bottom": 896,
+                    "left": 255,
+                    "right": 435,
+                    "top": 752
+                },
+                "closeBotX": 5,
+                "closeTopY": 7,
+                "groupId": 0,
+                "closeBotY": 518,
+                "readOnly": true,
+                "closeTopX": 555,
+                "shadeBackColor": "#FFFFE0",
+                "botY": 897,
+                "botX": 436,
+                "touchRect": {
+                    "bottom": 896,
+                    "left": 255,
+                    "right": 435,
+                    "top": 752
+                },
+                "cardBasedDrawingPaths": []
+            },
+            "class": "edu.asu.fact.model.FactImageCard"
+        },
+        {
+            "cardId": 10,
+            "factCard": {
+                "closeRect": {
+                    "bottom": -138,
+                    "left": 581,
+                    "right": 580,
+                    "top": 38
+                },
+                "imageBasedDrawingPaths": [],
+                "cardText": "No-Text",
+                "isImageCard": true,
+                "showTextBox": false,
+                "titleHeight": 32,
+                "changeX": 0,
+                "newValue": 0,
+                "drawingPaths": [],
+                "changeY": 0,
+                "dragSelected": true,
+                "picBotY": 145,
+                "textAvail": false,
+                "picBotX": 181,
+                "pathToImg": "Increasing-and-Decreasing-Quantities-by-a-Percent/images/card_b5.png",
+                "picBotYIntial": 145,
+                "cardPicRect": {
+                    "bottom": 1071,
+                    "left": 45,
+                    "right": 226,
+                    "top": 926
+                },
+                "sizeControls": {
+                    "endControlActive": false,
+                    "leftControlActive": false,
+                    "topControlActive": false,
+                    "controlLeftY": 961,
+                    "controlLeftX": 8,
+                    "controlRightY": 961,
+                    "controlTopX": 98,
+                    "imageOffset": 37,
+                    "paintActive": false,
+                    "controlRightX": 188,
+                    "controlTopY": 889,
+                    "rightControlActive": false,
+                    "controlPaintX": 0,
+                    "controlEndY": 1033,
+                    "controlEndX": 188,
+                    "controlPinY": 928,
+                    "controlPinX": 47,
+                    "controlBotX": 98,
+                    "bottomControlActive": false,
+                    "controlBotY": 1033,
+                    "pinActive": false,
+                    "controlPaintY": 0
+                },
+                "picTopX": 0,
+                "picTopY": 0,
+                "activeCard": false,
+                "rect": {
+                    "bottom": 1070,
+                    "left": 45,
+                    "right": 225,
+                    "top": 926
+                },
+                "cardType": "FactImageCard",
+                "recognitionHeight": 15,
+                "topY": 926,
+                "radius": 10,
+                "cardCenterX": 23,
+                "isSelectedByAnotherUser": false,
+                "cardCenterY": 72,
+                "topX": 45,
+                "borderColor": -7829368,
+                "scaleFactor": 1,
+                "oldValue": 181,
+                "picBotXIntial": 181,
+                "redrawPath": false,
+                "isPropsSet": true,
+                "cardHeight": 144,
+                "cardId": 10,
+                "cardWidth": 180,
+                "tempBotX": 181,
+                "tempBotY": 145,
+                "textRect": {
+                    "bottom": 1070,
+                    "left": 45,
+                    "right": 225,
+                    "top": 926
+                },
+                "closeBotX": 5,
+                "closeTopY": 7,
+                "groupId": 0,
+                "closeBotY": 518,
+                "readOnly": true,
+                "closeTopX": 555,
+                "shadeBackColor": "#FFFFE0",
+                "botY": 1071,
+                "botX": 226,
+                "touchRect": {
+                    "bottom": 1070,
+                    "left": 45,
+                    "right": 225,
+                    "top": 926
+                },
+                "cardBasedDrawingPaths": []
+            },
+            "class": "edu.asu.fact.model.FactImageCard"
+        },
+        {
+            "cardId": 11,
+            "factCard": {
+                "closeRect": {
+                    "bottom": -138,
+                    "left": 581,
+                    "right": 580,
+                    "top": 38
+                },
+                "imageBasedDrawingPaths": [],
+                "cardText": "No-Text",
+                "isImageCard": true,
+                "showTextBox": false,
+                "titleHeight": 32,
+                "changeX": 0,
+                "newValue": 0,
+                "drawingPaths": [],
+                "changeY": 0,
+                "dragSelected": true,
+                "picBotY": 145,
+                "textAvail": false,
+                "picBotX": 181,
+                "pathToImg": "Increasing-and-Decreasing-Quantities-by-a-Percent/images/card_b6.png",
+                "picBotYIntial": 145,
+                "cardPicRect": {
+                    "bottom": 1071,
+                    "left": 255,
+                    "right": 436,
+                    "top": 926
+                },
+                "sizeControls": {
+                    "endControlActive": false,
+                    "leftControlActive": false,
+                    "topControlActive": false,
+                    "controlLeftY": 961,
+                    "controlLeftX": 218,
+                    "controlRightY": 961,
+                    "controlTopX": 308,
+                    "imageOffset": 37,
+                    "paintActive": false,
+                    "controlRightX": 398,
+                    "controlTopY": 889,
+                    "rightControlActive": false,
+                    "controlPaintX": 0,
+                    "controlEndY": 1033,
+                    "controlEndX": 398,
+                    "controlPinY": 928,
+                    "controlPinX": 257,
+                    "controlBotX": 308,
+                    "bottomControlActive": false,
+                    "controlBotY": 1033,
+                    "pinActive": false,
+                    "controlPaintY": 0
+                },
+                "picTopX": 0,
+                "picTopY": 0,
+                "activeCard": false,
+                "rect": {
+                    "bottom": 1070,
+                    "left": 255,
+                    "right": 435,
+                    "top": 926
+                },
+                "cardType": "FactImageCard",
+                "recognitionHeight": 15,
+                "topY": 926,
+                "radius": 10,
+                "cardCenterX": 128,
+                "isSelectedByAnotherUser": false,
+                "cardCenterY": 72,
+                "topX": 255,
+                "borderColor": -7829368,
+                "scaleFactor": 1,
+                "oldValue": 181,
+                "picBotXIntial": 181,
+                "redrawPath": false,
+                "isPropsSet": true,
+                "cardHeight": 144,
+                "cardId": 11,
+                "cardWidth": 180,
+                "tempBotX": 181,
+                "tempBotY": 145,
+                "textRect": {
+                    "bottom": 1070,
+                    "left": 255,
+                    "right": 435,
+                    "top": 926
+                },
+                "closeBotX": 5,
+                "closeTopY": 7,
+                "groupId": 0,
+                "closeBotY": 518,
+                "readOnly": true,
+                "closeTopX": 555,
+                "shadeBackColor": "#FFFFE0",
+                "botY": 1071,
+                "botX": 436,
+                "touchRect": {
+                    "bottom": 1070,
+                    "left": 255,
+                    "right": 435,
+                    "top": 926
+                },
+                "cardBasedDrawingPaths": []
+            },
+            "class": "edu.asu.fact.model.FactImageCard"
+        },
+        {
+            "cardId": 12,
+            "factCard": {
+                "closeRect": {
+                    "bottom": -138,
+                    "left": 581,
+                    "right": 580,
+                    "top": 38
+                },
+                "imageBasedDrawingPaths": [],
+                "cardText": "No-Text",
+                "isImageCard": true,
+                "showTextBox": false,
+                "titleHeight": 32,
+                "changeX": 0,
+                "newValue": 0,
+                "drawingPaths": [],
+                "changeY": 0,
+                "dragSelected": true,
+                "picBotY": 145,
+                "textAvail": false,
+                "picBotX": 181,
+                "pathToImg": "Increasing-and-Decreasing-Quantities-by-a-Percent/images/card_b7.png",
+                "picBotYIntial": 145,
+                "cardPicRect": {
+                    "bottom": 1245,
+                    "left": 45,
+                    "right": 226,
+                    "top": 1100
+                },
+                "sizeControls": {
+                    "endControlActive": false,
+                    "leftControlActive": false,
+                    "topControlActive": false,
+                    "controlLeftY": 1135,
+                    "controlLeftX": 8,
+                    "controlRightY": 1135,
+                    "controlTopX": 98,
+                    "imageOffset": 37,
+                    "paintActive": false,
+                    "controlRightX": 188,
+                    "controlTopY": 1063,
+                    "rightControlActive": false,
+                    "controlPaintX": 0,
+                    "controlEndY": 1207,
+                    "controlEndX": 188,
+                    "controlPinY": 1102,
+                    "controlPinX": 47,
+                    "controlBotX": 98,
+                    "bottomControlActive": false,
+                    "controlBotY": 1207,
+                    "pinActive": false,
+                    "controlPaintY": 0
+                },
+                "picTopX": 0,
+                "picTopY": 0,
+                "activeCard": false,
+                "rect": {
+                    "bottom": 1244,
+                    "left": 45,
+                    "right": 225,
+                    "top": 1100
+                },
+                "cardType": "FactImageCard",
+                "recognitionHeight": 15,
+                "topY": 1100,
+                "radius": 10,
+                "cardCenterX": 23,
+                "isSelectedByAnotherUser": false,
+                "cardCenterY": 72,
+                "topX": 45,
+                "borderColor": -7829368,
+                "scaleFactor": 1,
+                "oldValue": 181,
+                "picBotXIntial": 181,
+                "redrawPath": false,
+                "isPropsSet": true,
+                "cardHeight": 144,
+                "cardId": 12,
+                "cardWidth": 180,
+                "tempBotX": 181,
+                "tempBotY": 145,
+                "textRect": {
+                    "bottom": 1244,
+                    "left": 45,
+                    "right": 225,
+                    "top": 1100
+                },
+                "closeBotX": 5,
+                "closeTopY": 7,
+                "groupId": 0,
+                "closeBotY": 518,
+                "readOnly": true,
+                "closeTopX": 555,
+                "shadeBackColor": "#FFFFE0",
+                "botY": 1245,
+                "botX": 226,
+                "touchRect": {
+                    "bottom": 1244,
+                    "left": 45,
+                    "right": 225,
+                    "top": 1100
+                },
+                "cardBasedDrawingPaths": []
+            },
+            "class": "edu.asu.fact.model.FactImageCard"
+        },
+        {
+            "cardId": 13,
+            "factCard": {
+                "closeRect": {
+                    "bottom": -138,
+                    "left": 581,
+                    "right": 580,
+                    "top": 38
+                },
+                "imageBasedDrawingPaths": [],
+                "cardText": "No-Text",
+                "isImageCard": true,
+                "showTextBox": false,
+                "titleHeight": 32,
+                "changeX": 0,
+                "newValue": 0,
+                "drawingPaths": [],
+                "changeY": 0,
+                "dragSelected": true,
+                "picBotY": 145,
+                "textAvail": false,
+                "picBotX": 181,
+                "pathToImg": "Increasing-and-Decreasing-Quantities-by-a-Percent/images/card_b8.png",
+                "picBotYIntial": 145,
+                "cardPicRect": {
+                    "bottom": 1245,
+                    "left": 255,
+                    "right": 436,
+                    "top": 1100
+                },
+                "sizeControls": {
+                    "endControlActive": false,
+                    "leftControlActive": false,
+                    "topControlActive": false,
+                    "controlLeftY": 1135,
+                    "controlLeftX": 218,
+                    "controlRightY": 1135,
+                    "controlTopX": 308,
+                    "imageOffset": 37,
+                    "paintActive": false,
+                    "controlRightX": 398,
+                    "controlTopY": 1063,
+                    "rightControlActive": false,
+                    "controlPaintX": 0,
+                    "controlEndY": 1207,
+                    "controlEndX": 398,
+                    "controlPinY": 1102,
+                    "controlPinX": 257,
+                    "controlBotX": 308,
+                    "bottomControlActive": false,
+                    "controlBotY": 1207,
+                    "pinActive": false,
+                    "controlPaintY": 0
+                },
+                "picTopX": 0,
+                "picTopY": 0,
+                "activeCard": false,
+                "rect": {
+                    "bottom": 1244,
+                    "left": 255,
+                    "right": 435,
+                    "top": 1100
+                },
+                "cardType": "FactImageCard",
+                "recognitionHeight": 15,
+                "topY": 1100,
+                "radius": 10,
+                "cardCenterX": 128,
+                "isSelectedByAnotherUser": false,
+                "cardCenterY": 72,
+                "topX": 255,
+                "borderColor": -7829368,
+                "scaleFactor": 1,
+                "oldValue": 181,
+                "picBotXIntial": 181,
+                "redrawPath": false,
+                "isPropsSet": true,
+                "cardHeight": 144,
+                "cardId": 13,
+                "cardWidth": 180,
+                "tempBotX": 181,
+                "tempBotY": 145,
+                "textRect": {
+                    "bottom": 1244,
+                    "left": 255,
+                    "right": 435,
+                    "top": 1100
+                },
+                "closeBotX": 5,
+                "closeTopY": 7,
+                "groupId": 0,
+                "closeBotY": 518,
+                "readOnly": true,
+                "closeTopX": 555,
+                "shadeBackColor": "#FFFFE0",
+                "botY": 1245,
+                "botX": 436,
+                "touchRect": {
+                    "bottom": 1244,
+                    "left": 255,
+                    "right": 435,
+                    "top": 1100
+                },
+                "cardBasedDrawingPaths": []
+            },
+            "class": "edu.asu.fact.model.FactImageCard"
+        },
+        {
+            "cardId": 14,
+            "factCard": {
+                "closeRect": {
+                    "bottom": -138,
+                    "left": 581,
+                    "right": 580,
+                    "top": 38
+                },
+                "imageBasedDrawingPaths": [],
+                "cardText": "No-Text",
+                "isImageCard": true,
+                "showTextBox": false,
+                "titleHeight": 32,
+                "changeX": 0,
+                "newValue": 0,
+                "drawingPaths": [],
+                "changeY": 0,
+                "dragSelected": true,
+                "picBotY": 145,
+                "textAvail": false,
+                "picBotX": 181,
+                "pathToImg": "Increasing-and-Decreasing-Quantities-by-a-Percent/images/card_b9.png",
+                "picBotYIntial": 145,
+                "cardPicRect": {
+                    "bottom": 1419,
+                    "left": 45,
+                    "right": 226,
+                    "top": 1274
+                },
+                "sizeControls": {
+                    "endControlActive": false,
+                    "leftControlActive": false,
+                    "topControlActive": false,
+                    "controlLeftY": 1309,
+                    "controlLeftX": 8,
+                    "controlRightY": 1309,
+                    "controlTopX": 98,
+                    "imageOffset": 37,
+                    "paintActive": false,
+                    "controlRightX": 188,
+                    "controlTopY": 1237,
+                    "rightControlActive": false,
+                    "controlPaintX": 0,
+                    "controlEndY": 1381,
+                    "controlEndX": 188,
+                    "controlPinY": 1276,
+                    "controlPinX": 47,
+                    "controlBotX": 98,
+                    "bottomControlActive": false,
+                    "controlBotY": 1381,
+                    "pinActive": false,
+                    "controlPaintY": 0
+                },
+                "picTopX": 0,
+                "picTopY": 0,
+                "activeCard": false,
+                "rect": {
+                    "bottom": 1418,
+                    "left": 45,
+                    "right": 225,
+                    "top": 1274
+                },
+                "cardType": "FactImageCard",
+                "recognitionHeight": 15,
+                "topY": 1274,
+                "radius": 10,
+                "cardCenterX": 23,
+                "isSelectedByAnotherUser": false,
+                "cardCenterY": 72,
+                "topX": 45,
+                "borderColor": -7829368,
+                "scaleFactor": 1,
+                "oldValue": 181,
+                "picBotXIntial": 181,
+                "redrawPath": false,
+                "isPropsSet": true,
+                "cardHeight": 144,
+                "cardId": 14,
+                "cardWidth": 180,
+                "tempBotX": 181,
+                "tempBotY": 145,
+                "textRect": {
+                    "bottom": 1418,
+                    "left": 45,
+                    "right": 225,
+                    "top": 1274
+                },
+                "closeBotX": 5,
+                "closeTopY": 7,
+                "groupId": 0,
+                "closeBotY": 518,
+                "readOnly": true,
+                "closeTopX": 555,
+                "shadeBackColor": "#FFFFE0",
+                "botY": 1419,
+                "botX": 226,
+                "touchRect": {
+                    "bottom": 1418,
+                    "left": 45,
+                    "right": 225,
+                    "top": 1274
+                },
+                "cardBasedDrawingPaths": []
+            },
+            "class": "edu.asu.fact.model.FactImageCard"
+        },
+        {
+            "cardId": 15,
+            "factCard": {
+                "closeRect": {
+                    "bottom": -138,
+                    "left": 581,
+                    "right": 580,
+                    "top": 38
+                },
+                "imageBasedDrawingPaths": [],
+                "cardText": "No-Text",
+                "isImageCard": true,
+                "showTextBox": false,
+                "titleHeight": 32,
+                "changeX": 0,
+                "newValue": 0,
+                "drawingPaths": [],
+                "changeY": 0,
+                "dragSelected": true,
+                "picBotY": 145,
+                "textAvail": false,
+                "picBotX": 181,
+                "pathToImg": "Increasing-and-Decreasing-Quantities-by-a-Percent/images/card_b10.png",
+                "picBotYIntial": 145,
+                "cardPicRect": {
+                    "bottom": 1419,
+                    "left": 255,
+                    "right": 436,
+                    "top": 1274
+                },
+                "sizeControls": {
+                    "endControlActive": false,
+                    "leftControlActive": false,
+                    "topControlActive": false,
+                    "controlLeftY": 1309,
+                    "controlLeftX": 218,
+                    "controlRightY": 1309,
+                    "controlTopX": 308,
+                    "imageOffset": 37,
+                    "paintActive": false,
+                    "controlRightX": 398,
+                    "controlTopY": 1237,
+                    "rightControlActive": false,
+                    "controlPaintX": 0,
+                    "controlEndY": 1381,
+                    "controlEndX": 398,
+                    "controlPinY": 1276,
+                    "controlPinX": 257,
+                    "controlBotX": 308,
+                    "bottomControlActive": false,
+                    "controlBotY": 1381,
+                    "pinActive": false,
+                    "controlPaintY": 0
+                },
+                "picTopX": 0,
+                "picTopY": 0,
+                "activeCard": false,
+                "rect": {
+                    "bottom": 1418,
+                    "left": 255,
+                    "right": 435,
+                    "top": 1274
+                },
+                "cardType": "FactImageCard",
+                "recognitionHeight": 15,
+                "topY": 1274,
+                "radius": 10,
+                "cardCenterX": 128,
+                "isSelectedByAnotherUser": false,
+                "cardCenterY": 72,
+                "topX": 255,
+                "borderColor": -7829368,
+                "scaleFactor": 1,
+                "oldValue": 181,
+                "picBotXIntial": 181,
+                "redrawPath": false,
+                "isPropsSet": true,
+                "cardHeight": 144,
+                "cardId": 15,
+                "cardWidth": 180,
+                "tempBotX": 181,
+                "tempBotY": 145,
+                "textRect": {
+                    "bottom": 1418,
+                    "left": 255,
+                    "right": 435,
+                    "top": 1274
+                },
+                "closeBotX": 5,
+                "closeTopY": 7,
+                "groupId": 0,
+                "closeBotY": 518,
+                "readOnly": true,
+                "closeTopX": 555,
+                "shadeBackColor": "#FFFFE0",
+                "botY": 1419,
+                "botX": 436,
+                "touchRect": {
+                    "bottom": 1418,
+                    "left": 255,
+                    "right": 435,
+                    "top": 1274
+                },
+                "cardBasedDrawingPaths": []
+            },
+            "class": "edu.asu.fact.model.FactImageCard"
+        },
+        {
+            "cardId": 16,
+            "factCard": {
+                "closeRect": {
+                    "bottom": -138,
+                    "left": 581,
+                    "right": 580,
+                    "top": 38
+                },
+                "imageBasedDrawingPaths": [],
+                "cardText": "No-Text",
+                "isImageCard": true,
+                "showTextBox": false,
+                "titleHeight": 32,
+                "changeX": 0,
+                "newValue": 0,
+                "drawingPaths": [],
+                "changeY": 0,
+                "dragSelected": true,
+                "picBotY": 145,
+                "textAvail": false,
+                "picBotX": 181,
+                "pathToImg": "Increasing-and-Decreasing-Quantities-by-a-Percent/images/card_b11.png",
+                "picBotYIntial": 145,
+                "cardPicRect": {
+                    "bottom": 1593,
+                    "left": 45,
+                    "right": 226,
+                    "top": 1448
+                },
+                "sizeControls": {
+                    "endControlActive": false,
+                    "leftControlActive": false,
+                    "topControlActive": false,
+                    "controlLeftY": 1483,
+                    "controlLeftX": 8,
+                    "controlRightY": 1483,
+                    "controlTopX": 98,
+                    "imageOffset": 37,
+                    "paintActive": false,
+                    "controlRightX": 188,
+                    "controlTopY": 1411,
+                    "rightControlActive": false,
+                    "controlPaintX": 0,
+                    "controlEndY": 1555,
+                    "controlEndX": 188,
+                    "controlPinY": 1450,
+                    "controlPinX": 47,
+                    "controlBotX": 98,
+                    "bottomControlActive": false,
+                    "controlBotY": 1555,
+                    "pinActive": false,
+                    "controlPaintY": 0
+                },
+                "picTopX": 0,
+                "picTopY": 0,
+                "activeCard": false,
+                "rect": {
+                    "bottom": 1592,
+                    "left": 45,
+                    "right": 225,
+                    "top": 1448
+                },
+                "cardType": "FactImageCard",
+                "recognitionHeight": 15,
+                "topY": 1448,
+                "radius": 10,
+                "cardCenterX": 23,
+                "isSelectedByAnotherUser": false,
+                "cardCenterY": 72,
+                "topX": 45,
+                "borderColor": -7829368,
+                "scaleFactor": 1,
+                "oldValue": 181,
+                "picBotXIntial": 181,
+                "redrawPath": false,
+                "isPropsSet": true,
+                "cardHeight": 144,
+                "cardId": 16,
+                "cardWidth": 180,
+                "tempBotX": 181,
+                "tempBotY": 145,
+                "textRect": {
+                    "bottom": 1592,
+                    "left": 45,
+                    "right": 225,
+                    "top": 1448
+                },
+                "closeBotX": 5,
+                "closeTopY": 7,
+                "groupId": 0,
+                "closeBotY": 518,
+                "readOnly": true,
+                "closeTopX": 555,
+                "shadeBackColor": "#FFFFE0",
+                "botY": 1593,
+                "botX": 226,
+                "touchRect": {
+                    "bottom": 1592,
+                    "left": 45,
+                    "right": 225,
+                    "top": 1448
+                },
+                "cardBasedDrawingPaths": []
+            },
+            "class": "edu.asu.fact.model.FactImageCard"
+        },
+        {
+            "cardId": 17,
+            "factCard": {
+                "closeRect": {
+                    "bottom": -138,
+                    "left": 581,
+                    "right": 580,
+                    "top": 38
+                },
+                "imageBasedDrawingPaths": [],
+                "cardText": "No-Text",
+                "isImageCard": true,
+                "showTextBox": false,
+                "titleHeight": 32,
+                "changeX": 0,
+                "newValue": 0,
+                "drawingPaths": [],
+                "changeY": 0,
+                "dragSelected": true,
+                "picBotY": 145,
+                "textAvail": false,
+                "picBotX": 181,
+                "pathToImg": "Increasing-and-Decreasing-Quantities-by-a-Percent/images/card_b12.png",
+                "picBotYIntial": 145,
+                "cardPicRect": {
+                    "bottom": 1593,
+                    "left": 255,
+                    "right": 436,
+                    "top": 1448
+                },
+                "sizeControls": {
+                    "endControlActive": false,
+                    "leftControlActive": false,
+                    "topControlActive": false,
+                    "controlLeftY": 1483,
+                    "controlLeftX": 218,
+                    "controlRightY": 1483,
+                    "controlTopX": 308,
+                    "imageOffset": 37,
+                    "paintActive": false,
+                    "controlRightX": 398,
+                    "controlTopY": 1411,
+                    "rightControlActive": false,
+                    "controlPaintX": 0,
+                    "controlEndY": 1555,
+                    "controlEndX": 398,
+                    "controlPinY": 1450,
+                    "controlPinX": 257,
+                    "controlBotX": 308,
+                    "bottomControlActive": false,
+                    "controlBotY": 1555,
+                    "pinActive": false,
+                    "controlPaintY": 0
+                },
+                "picTopX": 0,
+                "picTopY": 0,
+                "activeCard": false,
+                "rect": {
+                    "bottom": 1592,
+                    "left": 255,
+                    "right": 435,
+                    "top": 1448
+                },
+                "cardType": "FactImageCard",
+                "recognitionHeight": 15,
+                "topY": 1448,
+                "radius": 10,
+                "cardCenterX": 128,
+                "isSelectedByAnotherUser": false,
+                "cardCenterY": 72,
+                "topX": 255,
+                "borderColor": -7829368,
+                "scaleFactor": 1,
+                "oldValue": 181,
+                "picBotXIntial": 181,
+                "redrawPath": false,
+                "isPropsSet": true,
+                "cardHeight": 144,
+                "cardId": 17,
+                "cardWidth": 180,
+                "tempBotX": 181,
+                "tempBotY": 145,
+                "textRect": {
+                    "bottom": 1592,
+                    "left": 255,
+                    "right": 435,
+                    "top": 1448
+                },
+                "closeBotX": 5,
+                "closeTopY": 7,
+                "groupId": 0,
+                "closeBotY": 518,
+                "readOnly": true,
+                "closeTopX": 555,
+                "shadeBackColor": "#FFFFE0",
+                "botY": 1593,
+                "botX": 436,
+                "touchRect": {
+                    "bottom": 1592,
+                    "left": 255,
+                    "right": 435,
+                    "top": 1448
+                },
+                "cardBasedDrawingPaths": []
+            },
+            "class": "edu.asu.fact.model.FactImageCard"
+        }
+    ],
+    "surfaceMoveActivated": true,
+    "canvasWidth": 4000,
+    "canvasHeight": 3800,
+    "canvasTextAvailable": false,
+    "groupId": -1,
+    "surfacemLastTouchX": 2889.591,
+    "userId": 103,
+    "autoSaveDuration": 60000,
+    "surfaceCanvasLastStrokeId": 0,
+    "surfaceTogglePrevent": false,
+    "classChall": true
+}
